@@ -17,7 +17,7 @@
 	<properties>
 		<java.version>11</java.version>
 		<distribution.management.release.id>bintray</distribution.management.release.id>
-		<distribution.management.release.url>https://api.bintray.com/maven/dashaun/maven/io.dashaun.rest.url/;publish=1</distribution.management.release.url>
+		<distribution.management.release.url>https://api.bintray.com/maven/dashaun/maven/io.dashaun.rest.url</distribution.management.release.url>
 	</properties>
 
 	<dependencies>
